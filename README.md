@@ -1,6 +1,6 @@
 # wrasse
 
-![](https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjt5-Sc6L_fAhUCybwKHSRWDiwQjRx6BAgBEAU&url=https%3A%2F%2Fwww.arkive.org%2Fnassau-grouper%2Fepinephelus-striatus%2Fimage-G113136.html&psig=AOvVaw3B7urFqqFKtjFCnmfkiMI3&ust=1545993331408344)
+![](https://53744bf91d44b81762e0-fbbc959d4e21c00b07dbe9c75f9c0b63.ssl.cf3.rackcdn.com/media/38/38004A9C-CE03-49D1-96D7-CEA7DAECA6B8/Presentation.Large/Cleaner-wrasse-cleaning-Nassau-grouper-gills.jpg)
 
 ## about
 
@@ -12,3 +12,9 @@ wrasse is toolkit of preprocessiong for machine learning
 
 seealso: https://en.wikipedia.org/wiki/Bluestreak_cleaner_wrasse
 
+### installation
+
+```
+echo '-e git+git@github.com:yurfuwa/wrasse.git@v0.0.1#egg=wrasse' > requirements.txt
+pip install -r requirements.txt
+```
