@@ -1,0 +1,6 @@
+README.md
+setup.py
+wrasse.egg-info/PKG-INFO
+wrasse.egg-info/SOURCES.txt
+wrasse.egg-info/dependency_links.txt
+wrasse.egg-info/top_level.txt
