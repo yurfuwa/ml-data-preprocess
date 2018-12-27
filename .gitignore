@@ -1,1 +1,11 @@
 __pycache__
+.installed.cfg
+bin
+develop-eggs
+dist
+downloads
+eggs
+parts
+wrasse/*.egg-info
+lib
+lib64
